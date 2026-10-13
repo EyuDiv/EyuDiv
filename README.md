@@ -44,17 +44,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EyuDiv&show_icons=true&theme=radical" alt="EyuDiv GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyuDiv&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   ⭐️ <em>Thanks for stopping by! Feel free to connect and collaborate.</em>
